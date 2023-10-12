@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity{
             public void onClick(View view) {
                 if(tryb.isChecked())
                 {
-                    liczenie -= 2;
+                    liczenie -= 1;
                 }
                 else
                 {
